@@ -9,9 +9,12 @@ int _tmain(int argc, _TCHAR* argv[])
 	printf("Hi");
 	// int lol, comment;
 	// bla bla 
+//<<<<<<< HEAD
 
 
 	// // /  / / / / / /
+//=======
+//>>>>>>> origin/novaya-vetka
 	return 0;
 }
 
